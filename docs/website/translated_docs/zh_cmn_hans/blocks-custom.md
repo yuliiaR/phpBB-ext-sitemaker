@@ -8,4 +8,4 @@ If the available blocks do not give you the freedom you need, there is the Custo
 
 **The File manager:**
 
-The Custom Block also comes with a [File Manager](./filemanager.md) as a tinymce pluglin * It creates a new folder in phpBB/images/sitemaker_uploads/ for every user who has access to it * You can view/manage all user folders * You can edit images using aviary online editor
+该定义块还配有一个 [文件管理](./filemanager.md) 作为一个介绍pluglin *创建一个新的文件夹在参/images/sitemaker_uploads/每个用户已访问它 *你可以查看/管理所有用户的文件夹 *你可以编辑的图像，使用鸟舍网络编辑器
