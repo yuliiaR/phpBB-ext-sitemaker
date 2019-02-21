@@ -7,7 +7,7 @@ files:
     source: '/docs/docs/*.md'
     translation: '/docs/website/translated_docs/%two_letters_code%/%original_file_name%'
     languages_mapping: &anchor
-      locale:
+      two_letters_code:
         'af': 'af'
         'ar': 'ar'
         'bg': 'bg'
