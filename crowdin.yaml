@@ -2,7 +2,7 @@ project_identifier_env: CROWDIN_SITEMAKER_PROJECT_ID
 api_key_env: CROWDIN_SITEMAKER_API_KEY
 base_path: ./
 preserve_hierarchy: true
-files: &ref_2
+files:
   - source: /docs/docs/*.md
     translation: /test/docs/website/translated_docs/%locale%/%original_file_name%
     languages_mapping:
@@ -50,5 +50,3 @@ files: &ref_2
     source: /docs/website/i18n/en.json
     translation: /test/docs/website/i18n/%locale%.json
     languages_mapping: []
-  - []
-  - []
