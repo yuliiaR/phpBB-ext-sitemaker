@@ -2,9 +2,9 @@
 id: blocks-custom
 title: Custom Block
 ---
-121 The block comes with a WYSIWYG editor (Tinymce) and a [Filemanager](./filemanager.md):
+222 The block comes with a WYSIWYG editor (Tinymce) and a [Filemanager](./filemanager.md):
 
-**The editor:** * You can use the editor to create HTML content * You can edit the source code if you need that level of control by clicking on the **Source code** icon (**<>**) in the editor * The editor allows you to upload and modify images * The editor filters out any potentially dangerous scripts like javascript, etc. If you need to add content like google ads, the javascript will be filtered out, but you can get around that by doing the following: * Add the Custom Block to desired location * Edit the Custom Block, click on the **Source** tab and paste your Javascript
+**The editor:** * You can use the editor to create HTML content * You can edit the source code if you need that level of control by clicking on the **Source code** icon (**<>**) in the editor * The editor allows you to upload and modify images * The editor filters out any potentially dangerous scripts like javascript, etc. test
 
 **The File manager:**
 
